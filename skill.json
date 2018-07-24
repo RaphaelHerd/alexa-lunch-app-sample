@@ -1,0 +1,32 @@
+{
+    "interactionModel": {
+      "languageModel": {
+        "invocationName": "Lunch App",
+        "intents": [
+          {
+            "name": "AMAZON.CancelIntent",
+            "samples": []
+          },
+          {
+            "name": "AMAZON.HelpIntent",
+            "samples": []
+          },
+          {
+            "name": "AMAZON.StopIntent",
+            "samples": []
+          },
+          {
+            "name": "GetLunchSuggestions",
+            "samples": [
+              "what's for lunch",
+              "where should I go for lunch",
+              "where should we go for lunch"
+            ]
+          }
+        ]
+      }
+    }
+  }
+  
+  
+  
